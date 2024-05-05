@@ -13,4 +13,4 @@ jobs:
       uses: actions/checkout@v2
     
     - name: Example Step
-      run: echo "This is an example step for publishing the package"
+      run: echo "This is an example step for publishing the packages"
